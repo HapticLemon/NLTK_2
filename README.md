@@ -3,7 +3,7 @@ Uso de NLTK sobre textos para obtener gráficas de frecuencia de longitudes de p
 
 Algunas notas :
 
-Los textos usados pueden encontrarse en libroteca.net . El formato elegito es el de texto plano (.txt) y son de dominio público. Si hay algún problema de licencias, por favor, hazmelo saber y los retiraré
+Los textos usados pueden encontrarse en http://libroteca.net . El formato elegito es el de texto plano (.txt) y son de dominio público. Si hay algún problema de licencias, por favor, hazmelo saber y los retiraré
 
 Puedes ejecutar el programa con python signature.py *.txt
 
